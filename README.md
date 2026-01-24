@@ -4,6 +4,8 @@
 
 Este repositorio está dedicado a los ejercicios y homeworks que estaré resolviendo durante mi curso en **Henry**. Cada rama del repositorio representará una tarea, homework o ejercicio diferente, permitiendo un seguimiento organizado de mi progreso académico.
 
+**Tecnologías utilizadas:** JavaScript, CSS, HTML, React, Node.js
+
 ## 🌿 Organización por Ramas
 
 - **main**: Rama principal con información general del repositorio
