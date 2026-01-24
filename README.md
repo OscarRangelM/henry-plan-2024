@@ -8,7 +8,7 @@ Este repositorio está dedicado a los ejercicios y homeworks que estaré resolvi
 
 - **main**: Rama principal con información general del repositorio
 - **dev**: Rama de desarrollo para trabajar en los ejercicios
-- **homework-X**: Cada homework tendrá su propia rama (ejemplo: homework-01, homework-02, etc.)
+- **homework-X**: Cada homework tendrá su propia rama esta rama empezara con el prefijo M# (Modulo y el numero del modulo en el que nos encontramos) (ejemplo: m1/fsm1l1, m2/fsm2l1, etc.)
 - **ejercicio-X**: Ejercicios individuales organizados en ramas separadas
 
 ## 🚀 Cómo navegar
